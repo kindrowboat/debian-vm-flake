@@ -1,0 +1,4 @@
+.direnv/
+.envrc
+debian.qcow2
+flake.lock
